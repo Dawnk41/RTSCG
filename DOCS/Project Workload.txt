@@ -1,0 +1,11 @@
+Planned:
+	
+
+Current:
+	Script IDs 0001-0003
+	Design Inventory/Deck Manager
+	Design Card Manger
+	Design script manager
+	Design battle/resource manager
+
+Completed:
