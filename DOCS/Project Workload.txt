@@ -1,5 +1,5 @@
 Planned:
-	
+	make ability components
 
 Current:
 	Script IDs 0001-0005
